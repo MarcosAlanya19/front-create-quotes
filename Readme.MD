@@ -1,5 +1,5 @@
 # Front-create-quotes
-![](img.png)
+![](./public/img.png)
 
 ## Descripción
 Aplicacion creada para tener una administracion de citas, asimismo esta informacion se guardara en el localStorage, asi que la app, es optima localmente.
